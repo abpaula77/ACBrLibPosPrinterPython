@@ -8,4 +8,4 @@ https://acbr.sourceforge.io/ACBrLib/ACBrLibPosPrinter1.html
 https://www.projetoacbr.com.br/forum/files/file/481-acbrlibposprinter-demo/  
 
 
-
+Agradeço a contribuição de @kakos_k9
